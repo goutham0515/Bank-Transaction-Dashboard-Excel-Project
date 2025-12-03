@@ -69,11 +69,7 @@
     <li>🎓 Students learning Excel dashboards</li>
   </ul>
 
-  <h2>📸 Dashboard Preview</h2>
-  <p>(Add your screenshots inside the <code>/screenshots</code> folder and link them below.)</p>
-
-  <pre><code>&lt;Screenshot 2025-12-03 101613.png"&gt;</code></pre>
-
+  
   <h2>📌 Skills Demonstrated</h2>
   <ul>
     <li>📈 Data Visualization</li>
